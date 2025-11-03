@@ -1,0 +1,6 @@
+# Rubyファイルを除外
+*.rb
+
+# Zone.Identifierファイルを除外（Windowsのセキュリティマーク）
+*.Zone.Identifier
+
